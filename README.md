@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @skbiswas04
+- 👋 Hi, I’m sk biswas
 - 👀 I’m interested in Microservices, Streams and OpenSource projects
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on ...
